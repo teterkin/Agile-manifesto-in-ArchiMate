@@ -64,7 +64,7 @@
     <element xsi:type="archimate:Driver" name="Устойчивый процесс разработки" id="b70c85da-d736-40dc-a856-23b7fdb184f0"/>
     <element xsi:type="archimate:Requirement" name="Agile-процессы" id="0d694952-8274-4a81-ac6e-4e21eeb7ccb4"/>
     <element xsi:type="archimate:Driver" name="Инвесторы, разработчики и пользователи могут поддерживать выбранный темп до бесконечности." id="7632c7e4-368e-46b9-8150-e11087b7cbb2"/>
-    <element xsi:type="archimate:Driver" name="Повышенная Agility (проворность, сообразительность" id="bc23245b-4a94-4fde-b6c5-7ba84f660ddb"/>
+    <element xsi:type="archimate:Driver" name="Повышенная Agility (проворность, сообразительность)" id="bc23245b-4a94-4fde-b6c5-7ba84f660ddb"/>
     <element xsi:type="archimate:Assessment" name="Постоянное внимание" id="d3673968-f8cd-4216-b82e-4f61cac74943"/>
     <element xsi:type="archimate:Requirement" name="Техническое совершенство" id="73aba525-e300-48c7-a967-ea12f700dff0"/>
     <element xsi:type="archimate:Requirement" name="Качественное проектирование" id="a298db37-cccd-4f32-a94d-8fd52c889b1f"/>
