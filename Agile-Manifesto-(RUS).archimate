@@ -33,7 +33,7 @@
     <element xsi:type="archimate:Principle" name="9. Постоянное внимание к техническому совершенству и качеству проектирования повышает Agility." id="9456b8b2-7692-462b-9551-99bba832e0cf"/>
     <element xsi:type="archimate:Principle" name="10. Простота – искусство минимизации лишней работы – крайне необходима." id="b7cf4ee5-f0cd-4a59-8e71-7c33c633b310"/>
     <element xsi:type="archimate:Principle" name="11. Самые лучшие архитектурные решения, требования и технические решения рождаются  у самоорганизующихся команд." id="437ebe49-1541-40b3-8b5e-de4ad987a112"/>
-    <element xsi:type="archimate:Principle" name="12. Команда систематически анализирует способы улучшения своей результативности, а затем проводит точную настройку и корректировку своего повдения." id="b1082889-c7ab-4384-b24a-834fec4817a5"/>
+    <element xsi:type="archimate:Principle" name="12. Команда систематически анализирует способы улучшения своей результативности, а затем проводит точную настройку и корректировку своего поведения." id="b1082889-c7ab-4384-b24a-834fec4817a5"/>
     <element xsi:type="archimate:Driver" name="Ценное программное обеспечение" id="5786c2e0-2582-432b-8ed1-35426743dd01"/>
     <element xsi:type="archimate:Stakeholder" name="Заказчик" id="c89d36f0-01e3-41ae-b634-8cbe5dd08778"/>
     <element xsi:type="archimate:Driver" name="Удовлетворение потребностей заказчика" id="7350668e-c640-48d9-8d52-77190b0d1b96"/>
@@ -64,7 +64,7 @@
     <element xsi:type="archimate:Driver" name="Устойчивый процесс разработки" id="b70c85da-d736-40dc-a856-23b7fdb184f0"/>
     <element xsi:type="archimate:Requirement" name="Agile-процессы" id="0d694952-8274-4a81-ac6e-4e21eeb7ccb4"/>
     <element xsi:type="archimate:Driver" name="Инвесторы, разработчики и пользователи могут поддерживать выбранный темп до бесконечности." id="7632c7e4-368e-46b9-8150-e11087b7cbb2"/>
-    <element xsi:type="archimate:Driver" name="Повышенная Agility (проворность, сообоазительность)" id="bc23245b-4a94-4fde-b6c5-7ba84f660ddb"/>
+    <element xsi:type="archimate:Driver" name="Повышенная Agility (проворность, сообразительность" id="bc23245b-4a94-4fde-b6c5-7ba84f660ddb"/>
     <element xsi:type="archimate:Assessment" name="Постоянное внимание" id="d3673968-f8cd-4216-b82e-4f61cac74943"/>
     <element xsi:type="archimate:Requirement" name="Техническое совершенство" id="73aba525-e300-48c7-a967-ea12f700dff0"/>
     <element xsi:type="archimate:Requirement" name="Качественное проектирование" id="a298db37-cccd-4f32-a94d-8fd52c889b1f"/>
